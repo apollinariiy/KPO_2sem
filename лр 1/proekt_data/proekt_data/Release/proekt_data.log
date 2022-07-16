@@ -1,0 +1,27 @@
+﻿Сборка начата 14.02.2022 23:32:42.
+Уровень детализации журнала: Normal.     1>Проект "E:\1yniver\2sem\КПО\лр 1\proekt_data\proekt_data\proekt_data.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "E:\1yniver\2sem\КПО\лр 1\proekt_data\Release\".
+         Создание каталога "Release\proekt_data.tlog\".
+       InitializeBuildStatus:
+         Создание "Release\proekt_data.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt proekt_data.cpp
+         proekt_data.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1yniver\2sem\КПО\лр 1\proekt_data\Release\proekt_data.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1yniver\2sem\КПО\лр 1\proekt_data\Release\proekt_data.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\proekt_data.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1yniver\2sem\КПО\лр 1\proekt_data\Release\proekt_data.lib" /MACHINE:X86 /SAFESEH Release\proekt_data.obj
+         Создание кода
+         Previous IPDB not found, fall back to full compilation.
+         All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         proekt_data.vcxproj -> E:\1yniver\2sem\КПО\лр 1\proekt_data\Release\proekt_data.exe
+       FinalizeBuildStatus:
+         Файл "Release\proekt_data.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Release\proekt_data.tlog\proekt_data.lastbuildstate".
+     1>Сборка проекта "E:\1yniver\2sem\КПО\лр 1\proekt_data\proekt_data\proekt_data.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.54

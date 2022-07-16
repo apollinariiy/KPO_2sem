@@ -1,0 +1,21 @@
+﻿Сборка начата 06.05.2022 13:21:11.
+Уровень детализации журнала: Normal.     1>Проект "E:\1yniver\2sem\КПО\лр 6\SE_lab06\SE_lab06\SE_lab06.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_lab06.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D TEST_DICTIONARY /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_lab06.cpp
+         SE_lab06.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1yniver\2sem\КПО\лр 6\SE_lab06\Debug\SE_lab06.exe" /INCREMENTAL /ILK:"Debug\SE_lab06.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1yniver\2sem\КПО\лр 6\SE_lab06\Debug\SE_lab06.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1yniver\2sem\КПО\лр 6\SE_lab06\Debug\SE_lab06.lib" /MACHINE:X86 Debug\Dictionary.obj
+         Debug\SE_lab06.obj
+         SE_lab06.vcxproj -> E:\1yniver\2sem\КПО\лр 6\SE_lab06\Debug\SE_lab06.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_lab06.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_lab06.tlog\SE_lab06.lastbuildstate".
+     1>Сборка проекта "E:\1yniver\2sem\КПО\лр 6\SE_lab06\SE_lab06\SE_lab06.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:04.13
